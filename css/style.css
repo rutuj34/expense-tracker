@@ -1,0 +1,53 @@
+.container-fluid{
+	width:500px;
+	height:800px;
+	text-align:center;
+	margin:auto;
+}
+.first{
+	height:100px;
+	
+}
+.balance{
+	float:right;
+	border: 2px solid black;
+	border-radius:15px;
+	width:180px;
+	height:35px;
+}
+.second{
+	
+}
+.credit{
+	height:400px;
+	width:200px;
+	float:left;
+	border: 2px solid black;
+	margin:23px;
+	border-radius:20px;
+	color:green;
+}
+.debit{
+	height:400px;
+	width:200px;
+	float:left;
+	border: 2px solid black;
+	margin:23px;
+	border-radius:20px;
+	color:red;
+}
+.amt-btn{
+	color:white;
+	background-color:DodgerBlue;
+	border:1px solid DodgerBlue;
+	border-radius:10px;
+	width:150px;
+	height:35px;
+	font-size:18px;
+	
+}
+.amt{
+	border: 2px solid black;
+	height:25px;
+	border-radius:10px;
+}
